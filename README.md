@@ -14,4 +14,4 @@ Visit [https://assembly.com](https://assembly.com) to learn more.
 
 # Development
 
-Clone the repo and run `npm install`.
+Clone the repo and run `npm install`. Be sure to change the Slack link so I don't get spammed :D
